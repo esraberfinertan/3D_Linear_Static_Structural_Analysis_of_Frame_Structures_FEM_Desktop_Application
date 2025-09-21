@@ -1,0 +1,7 @@
+numpy
+matplotlib
+flask
+google-auth-oauthlib
+google-auth
+requests
+cryptography 
